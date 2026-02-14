@@ -1,5 +1,7 @@
 # 📧 Email Spam Detection System
 
+web link : https://email-spam-detection-model-7twqnotwfappsqgpsedpv4u.streamlit.app/
+
 An end-to-end **Email Spam Detection** project built with a **clean ML pipeline**,  
 hyperparameter tuning, and a **Streamlit web app** for real-time predictions.
 
@@ -169,3 +171,4 @@ Dockerized deployment
 👤 Author
 Built by Vaibhav Sharma
 Focused on writing production-ready ML systems, not just notebooks.
+
